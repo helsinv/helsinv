@@ -9,7 +9,7 @@ helsinv/helsinv is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 hola, soy @helsinv
-me interesa el conocimiento, me gusta estudiar
-estoy aprendiendo  progranacion 
-proestoy buscando colaborar e n desarrolo de aplicaciones,gramas y juegos
+me interesa el conocimiento, me gusta estudiar            
+estoy aprendiendo  programacion
+buscando colaborar en desarrollo de programas, aplicaciones y juegos   
 mi contacto helsinvergara@hotmail.es
